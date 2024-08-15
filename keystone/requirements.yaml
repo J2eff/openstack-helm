@@ -12,5 +12,5 @@
 
 dependencies:
   - name: helm-toolkit
-    repository: oci://registry.clody.io/charts
+    repository: oci://registry.local.j2eff.io/charts
     version: ">= 0.1.0"
