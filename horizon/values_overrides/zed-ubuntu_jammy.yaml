@@ -1,8 +1,8 @@
 ---
 images:
   tags:
-    db_init: docker.io/openstackhelm/heat:zed-ubuntu_jammy
-    db_drop: docker.io/openstackhelm/heat:zed-ubuntu_jammy
-    horizon_db_sync: docker.io/openstackhelm/horizon:zed-ubuntu_jammy
-    horizon: docker.io/openstackhelm/horizon:zed-ubuntu_jammy
+    db_init: registry.local.j2eff.io/openstack/horizon:zed-ubuntu_jammy-1
+    db_drop: registry.local.j2eff.io/openstack/horizon:zed-ubuntu_jammy-1
+    horizon_db_sync: registry.local.j2eff.io/openstack/horizon:zed-ubuntu_jammy-1
+    horizon: registry.local.j2eff.io/openstack/horizon:zed-ubuntu_jammy-1
 ...
