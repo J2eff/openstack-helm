@@ -1,0 +1,3 @@
+[submodule "deps/openstack-helm-infra"]
+	path = deps/openstack-helm-infra
+	url = git@github.com:j2eff/openstack-helm-infra.git
